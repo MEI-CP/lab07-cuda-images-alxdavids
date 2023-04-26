@@ -1,0 +1,2 @@
+/Users/herve/Google Drive/Aulas/CAD/praticas/cadlabs-03/libwb/CMakeFiles/libwb.dir
+/Users/herve/Google Drive/Aulas/CAD/praticas/cadlabs-03/libwb/CMakeFiles/wb.dir
